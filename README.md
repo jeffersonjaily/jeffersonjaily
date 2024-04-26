@@ -8,12 +8,14 @@
 - 📺 Fã de séries e animes.
 - 🤓 Geek de coração e amante da cultura nerd.
 - 📚 Sempre aprendendo e explorando o mundo dos computadores.
-- 🛠️ Curso de Eletrônica Analógica no SENAI-SP (80 horas).
+
 
 
 ## Cursos:
-- 🐍 Cursando Python para iniciantes avançados.
-- 🧠 Fundamentos de Inteligência Artificial para Desenvolvedores.
+- 🐍 Cursando Python AI Backend Developer.
+- 🧠 Fundamentos de IA para Devs.
+- 🛠️ Curso de Eletrônica Analógica no SENAI-SP.
+
 
 ## Projetos em Destaque:
 - [Projeto Em construção](https://github.com/jeffersonjaily/jeffersonjaily) 
