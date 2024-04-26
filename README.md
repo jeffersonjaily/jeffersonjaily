@@ -1,7 +1,7 @@
 # Olá! Eu sou Jefferson  Felix 👋
 
 ## Sobre Mim:
-- 🎉 Tenho 30 anos.
+- 🎉 Tenho 30 anos(1993).
 - 💻 Estou mergulhando no mundo da programação e IA.
 - 👨‍👩‍👧‍👦 Pai de 3 filhos incríveis.
 - 🎮 Apaixonado por games desde criança.
@@ -16,9 +16,8 @@
 - 🧠 Fundamentos de Inteligência Artificial para Desenvolvedores.
 
 ## Projetos em Destaque:
-- [Projeto Em construção](https://github.com/) 
-- [Projeto B](https://github.com)
-
+- [Projeto Em construção](https://github.com/jeffersonjaily/jeffersonjaily) 
+- [Projeto B]
 ## Hobbies:
 - 🔨 Trabalhar com madeira: construção de móveis e projetos DIY.
 
