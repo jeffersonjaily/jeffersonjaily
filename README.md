@@ -26,6 +26,7 @@
 "Ninguém é tão sábio que não tenha nada a aprender, e ninguém é tão tolo que não tenha nada a ensinar." - Blaise Pascal
 
 ## Entre em Contato:
- [![Gmail](https://img.icons8.com/color/48/000000/gmail-new.png)](jeffersson.jaily@gmail.com) 
- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jefferson-jaily-felix-456979b3/)
+[![Gmail](https://img.icons8.com/color/50/000000/gmail-new.png)](jeffersson.jaily@gmail.com)
+
+[![LinkedIn](https://img.icons8.com/color/55/000000/linkedin.png)](https://www.linkedin.com/in/jefferson-jaily-felix-456979b3/)
  
