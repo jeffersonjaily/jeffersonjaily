@@ -1,4 +1,4 @@
-# Olá! Eu sou Jefferson Jaily Felix 👋
+# Olá! Eu sou Jefferson Felix 👋
 
 ## Sobre Mim:
 - 🎉 Tenho 30 anos.
