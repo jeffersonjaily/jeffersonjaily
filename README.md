@@ -27,6 +27,5 @@
 
 ## Entre em Contato:
 [![Gmail](https://img.icons8.com/color/50/000000/gmail-new.png)](jeffersson.jaily@gmail.com)
-
 [![LinkedIn](https://img.icons8.com/color/55/000000/linkedin.png)](https://www.linkedin.com/in/jefferson-jaily-felix-456979b3/)
- 
+[![GitHub](https://img.icons8.com/ios-filled/50/ffffff/github.png)](https://github.com/jeffersonjaily)
