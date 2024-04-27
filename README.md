@@ -19,7 +19,7 @@
 
 ## Projetos em Destaque:
 - [Projeto Em construção](https://github.com/jeffersonjaily/jeffersonjaily) 
-- [Projeto B]
+- [Projeto B](https://github.com/jeffersonjaily/calculador_imc.py)
 ## Hobbies:
 - 🔨 Trabalhar com madeira: construção de móveis e projetos DIY.
 
