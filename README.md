@@ -15,6 +15,8 @@
 - 🐍 Cursando Python AI Backend Developer.
 - 🧠 Fundamentos de IA para Devs.
 - 🛠️ Curso de Eletrônica Analógica no SENAI-SP.
+- 📚 Cursando Análise e Desenvolvimento de Sistemas (ADS) na faculdade Anhambi Murubim.
+
 
 
 ## Projetos em Destaque:
