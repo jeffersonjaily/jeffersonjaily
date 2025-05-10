@@ -1,7 +1,7 @@
 # Olá! Eu sou Jefferson  Felix 👋
 
 ## Sobre Mim:
-- 🎉 Tenho 30 anos(1993).
+- 🎉 Tenho 32 anos(1993).
 - 💻 Estou mergulhando no mundo da programação e IA.
 - 👨‍👩‍👧‍👦 Pai de 3 filhos incríveis.
 - 🎮 Apaixonado por games desde criança.
