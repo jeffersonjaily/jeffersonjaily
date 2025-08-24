@@ -25,7 +25,7 @@
 
 
 ## Projetos em Destaque:
-- [Projeto Em construção](https://github.com/jeffersonjaily/jeffersonjaily) 
+- [Projeto Em construção-Portifolio]([https://github.com/jeffersonjaily/jeffersonjaily](https://jeffersonjaily.github.io/dio-portifolio/)) 
 - [Projeto Inicar em Py](https://github.com/jeffersonjaily/calculador_imc.py)
 - [Projeto Para Bricar com HTML](https://github.com/jeffersonjaily/tabela-orcamentos-familiar)
 
